@@ -10,11 +10,13 @@ on:
   - cron: "0 * * * *"
   
 jobs:
-  stale:
+  update:
     runs-on: ubuntu-latest
     steps:
-    - name: "ls"
-      run: ls -l
+    - name: "Checkout"
+      uses: actions/checkout@v2.4.0
+    - name: "cd"
+      run: cd $GITHUB_WORKSPACE
     - name: "Making update.sh executable, if not"
       run: chmod +x ./update.sh
     - name: "Updating"
