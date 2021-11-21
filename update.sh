@@ -50,3 +50,5 @@ do
 	desc=$(cat forks | head -n $i forks | tail -n+$i | cut -d'[' -f2)
 	echo -e "[**$name**](https://github.com/Pigmy-penguin/$name) - $desc\n" >> index.md  
 done
+
+echo -e "\nLast updated at: $(date +'%H:%M:%S')" >> index.md
