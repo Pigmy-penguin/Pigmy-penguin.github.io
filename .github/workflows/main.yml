@@ -20,4 +20,4 @@ jobs:
     - name: "Making update.sh executable, if not"
       run: chmod +x ./update.sh
     - name: "Updating"
-      run: ./update
+      run: ./update.sh
