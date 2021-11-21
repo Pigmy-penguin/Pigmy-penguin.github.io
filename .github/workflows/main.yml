@@ -13,6 +13,8 @@ jobs:
   stale:
     runs-on: ubuntu-latest
     steps:
+    - name: "ls"
+      run: ls -l
     - name: "Making update.sh executable, if not"
       run: chmod +x ./update.sh
     - name: "Updating"
