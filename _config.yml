@@ -1,0 +1,23 @@
+title: "Pigmy-penguin"
+tagline: "Av"
+description: " Hi! I'm Pigmy-penguin. I am a C/C++ programmer, and low-level stuff enjoyer. "
+github_username: Pigmy-penguin
+baseurl: "/"
+url: "https://pigmy-penguin.github.io"
+
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+sass:
+  style: compressed
+
+highlighter: rouge
+
+header_pages:
+  - index.md
+  - about.md
+
+# set the size of the text to 'large' or 'small', default is small
+font-size: large
