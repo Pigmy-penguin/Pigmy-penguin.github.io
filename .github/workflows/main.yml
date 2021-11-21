@@ -4,6 +4,7 @@ name: "Update"
 
 # Controls when the workflow will run
 on:
+  workflow_dispatch:
   # Triggers the workflow every hour
   schedule:
   - cron: "0 * * * *"
