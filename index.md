@@ -5,13 +5,19 @@ permalink_name: /home
 title: Pigmy-penguin Homepage
 ---
 
-## Projects:
-[**Slops**](https://github.com/Slops64/slops) - An hobby OS written in C and assembly
 
-[**Subtle**](https://github.com/Pigmy-penguin/Subtle)  - A simple UEFI bootloader (archived) 
+## My repositories:
 
-## Contributions:
+[**linux**](https://github.com/Pigmy-penguin/linux) - Linux kernel source tree
+
+[**slops**](https://github.com/Pigmy-penguin/slops) - Slops (SLow OPerating System) | An hobby OS written in C and assembly
+
+## My forks:
 ### Open source projects I contributed to
 
-[**Systemd**](https://github.com/Pigmy-penguin/systemd) - System and service manager for GNU/Linux
+[**linux**](https://github.com/Pigmy-penguin/linux) - Linux kernel source tree
+
+[**slops**](https://github.com/Pigmy-penguin/slops) - Slops (SLow OPerating System) | An hobby OS written in C and assembly
+
+[**systemd**](https://github.com/Pigmy-penguin/systemd) - The systemd System and Service Manager 
 
