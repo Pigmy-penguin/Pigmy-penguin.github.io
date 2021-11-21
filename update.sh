@@ -37,8 +37,8 @@ echo -e "## My repositories:\n" >> index.md
 linescount=$(wc -l repos | sed s/" +"/""/g | sed s/"[a-z]"//g | sed s/" "//g)
 for i in $(seq 1 $linescount)
 do
-	name=$(cat repos | head -n $i forks | tail -n+$i | cut -d'[' -f1)
-	desc=$(cat repos | head -n $i forks | tail -n+$i | cut -d'[' -f2)
+	name=$(cat repos | head -n $i repos | tail -n+$i | cut -d'[' -f1)
+	desc=$(cat repos | head -n $i repos | tail -n+$i | cut -d'[' -f2)
 	echo -e "[**$name**](https://github.com/Pigmy-penguin/$name) - $desc\n" >> index.md  
 done
 echo "## My forks:" >> index.md

@@ -5,12 +5,11 @@ permalink_name: /home
 title: Pigmy-penguin Homepage
 ---
 
-
 ## My repositories:
 
-[**linux**](https://github.com/Pigmy-penguin/linux) - Linux kernel source tree
+[**scripts**](https://github.com/Pigmy-penguin/scripts) - An uncurated collection of scripts
 
-[**slops**](https://github.com/Pigmy-penguin/slops) - Slops (SLow OPerating System) | An hobby OS written in C and assembly
+[**Subtle**](https://github.com/Pigmy-penguin/Subtle) - Simple Uefi BooTLoadEr
 
 ## My forks:
 ### Open source projects I contributed to
