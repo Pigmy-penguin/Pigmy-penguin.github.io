@@ -21,8 +21,6 @@ jobs:
       run: chmod +x ./update.sh
     - name: "Updating"
       run: ./update.sh
-    - name: getting time
-      run: echo "NOW::$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
     - name: switching from HTTPS to SSH
       run: git remote set-url origin ${{ secrets.ssh }}
     - name: check for changes
