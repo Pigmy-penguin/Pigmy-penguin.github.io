@@ -14,6 +14,8 @@ title: Pigmy-penguin Homepage
 ## My forks:
 ### Open source projects I contributed to
 
+[**EfiGuard**](https://github.com/Pigmy-penguin/EfiGuard) - Disable PatchGuard and DSE at boot time
+
 [**linux**](https://github.com/Pigmy-penguin/linux) - Linux kernel source tree
 
 [**slops**](https://github.com/Pigmy-penguin/slops) - Slops (SLow OPerating System) is an hobby OS written in C and assembly
@@ -21,4 +23,4 @@ title: Pigmy-penguin Homepage
 [**systemd**](https://github.com/Pigmy-penguin/systemd) - The systemd System and Service Manager 
 
 
-Last updated at: 00:30:08
+Last updated at: 00:28:31
