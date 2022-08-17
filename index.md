@@ -11,6 +11,8 @@ title: Pigmy-penguin Homepage
 
 [**scripts**](https://github.com/Pigmy-penguin/scripts) - An uncurated collection of scripts
 
+[**Slops**](https://github.com/Pigmy-penguin/Slops) - Slops (SLow OPerationg System) is a Unix-like x86_64 hobby operating system
+
 [**Subtle**](https://github.com/Pigmy-penguin/Subtle) - Simple Uefi BooTLoadEr
 
 ## My forks:
@@ -20,9 +22,13 @@ title: Pigmy-penguin Homepage
 
 [**pw-volume**](https://github.com/Pigmy-penguin/pw-volume) - Basic interface to PipeWire volume controls
 
-[**slops**](https://github.com/Pigmy-penguin/slops) - Slops (SLow OPerating System) is an hobby OS written in C and assembly
+[**Apache**](https://github.com/Pigmy-penguin/Apache) - 
+
+[**License**](https://github.com/Pigmy-penguin/License) - 
+
+[**2.0**](https://github.com/Pigmy-penguin/2.0) - 
 
 [**systemd**](https://github.com/Pigmy-penguin/systemd) - The systemd System and Service Manager 
 
 
-Last updated at: 00:56:41
+Last updated at: 00:55:22
