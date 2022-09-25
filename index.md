@@ -22,6 +22,8 @@ title: Pigmy-penguin Homepage
 
 [**linux**](https://github.com/Pigmy-penguin/linux) - Linux kernel source tree
 
+[**Osdev-Notes**](https://github.com/Pigmy-penguin/Osdev-Notes) - Personal Notes about OSDev!
+
 [**pw-volume**](https://github.com/Pigmy-penguin/pw-volume) - Basic interface to PipeWire volume controls
 
 [**Apache**](https://github.com/Pigmy-penguin/Apache) - 
@@ -33,4 +35,4 @@ title: Pigmy-penguin Homepage
 [**systemd**](https://github.com/Pigmy-penguin/systemd) - The systemd System and Service Manager 
 
 
-Last updated at: 01:00:41
+Last updated at: 00:58:06
