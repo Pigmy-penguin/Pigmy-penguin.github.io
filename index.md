@@ -34,7 +34,7 @@ title: Pigmy-penguin Homepage
 
 [**2.0**](https://github.com/Pigmy-penguin/2.0) - 
 
-[**systemd**](https://github.com/Pigmy-penguin/systemd) - The systemd System and Service Manager 
+[**systemd**](https://github.com/Pigmy-penguin/systemd) - 
 
 
-Last updated at: 00:41:33
+Last updated at: 00:39:38
