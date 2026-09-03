@@ -17,9 +17,7 @@ title: Pigmy-penguin Homepage
 
 [**scripts**](https://github.com/Pigmy-penguin/scripts) - An uncurated collection of scripts
 
-[**Slops**](https://github.com/Pigmy-penguin/Slops) - Slops (SLow OPerationg System) is a Unix-like x86_64 hobby operating system
-
-[**Subtle**](https://github.com/Pigmy-penguin/Subtle) - Simple Uefi BooTLoadEr
+[**Slops**](https://github.com/Pigmy-penguin/Slops) - 
 
 ## My forks:
 ### Open source projects I contributed to
@@ -40,7 +38,9 @@ title: Pigmy-penguin Homepage
 
 [**2.0**](https://github.com/Pigmy-penguin/2.0) - 
 
-[**systemd**](https://github.com/Pigmy-penguin/systemd) - The systemd System and Service Manager 
+[**Subtle**](https://github.com/Pigmy-penguin/Subtle) - 
+
+[**systemd**](https://github.com/Pigmy-penguin/systemd) - 
 
 
-Last updated at: 02:04:45
+Last updated at: 02:10:22
